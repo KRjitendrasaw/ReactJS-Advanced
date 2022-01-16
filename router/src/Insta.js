@@ -1,10 +1,11 @@
+
 import React, { useEffect, useState } from 'react';
-import './Postview.css';
+import './Insta.css';
 import camera from  "./image/camera.svg";
 import insta from './image/insta.svg';
 
 
-const Postview=()=> {
+const Insta=()=> {
   const [data,setData]=useState([])
   useEffect(()=>{
     fetch("http://localhost:3004/user")
@@ -67,4 +68,4 @@ const Postview=()=> {
     </>
   );
 }
-export default Postview;
+export default Insta;

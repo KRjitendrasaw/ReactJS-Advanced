@@ -1,0 +1,27 @@
+
+{
+    "user":
+            [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "./postImg/img1.jpg",
+            "date": "3/04/2021"
+       },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Beautiful Nature Truth",
+            "PostImage": "./postImg/img2.jpg",
+            "date": "3/04/2021"
+       },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Arts is key of life",
+            "PostImage": "./postImg/img3.jpg",
+            "date":"3/04/2021"
+            }
+            ]
+}
